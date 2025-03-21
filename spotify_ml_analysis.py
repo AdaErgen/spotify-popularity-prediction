@@ -13,7 +13,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the dataset
-file_path = "universal_top_spotify_songs2.csv"
+file_path = "universal_top_spotify_songs.csv"
 data = pd.read_csv(file_path)
 
 # Target variable creation
